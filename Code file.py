@@ -6,7 +6,8 @@
 
 # Here are imported the libraries/modules that are used below for the analysis.
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy as sp
